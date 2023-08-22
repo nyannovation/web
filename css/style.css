@@ -160,11 +160,11 @@ nav.navbar.navbar-expand-lg.navbar-light{
     padding: 10px 0px 0px;
     text-align: center;
 }
-.one-img{  background: url(../images/bg1.jpg)no-repeat center;}
-.two-img{  background: url(../images/bg2.jpg)no-repeat center;}
-.three-img{  background: url(../images/bg3.jpg)no-repeat center;} 
+.one-img{  background: url(../images/b11.jpg)no-repeat center;}
+.two-img{  background: url(../images/b22.jpg)no-repeat center;}
+.three-img{  background: url(../images/b33.jpg)no-repeat center;} 
 .slider-img{  background-size: cover;
-    min-height: 800px;
+    min-height: 810px;
 	background-attachment:fixed;}  
 .rslides {
   position: relative;
