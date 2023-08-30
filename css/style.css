@@ -1,4 +1,3 @@
-
 /*--
 Author: Steven Htun
 Author URL: http:/www.mmitsg.com
@@ -1118,7 +1117,7 @@ label.header {
 /*-- //clients--*/
 /*-- pricing --*/
 .pricing-grid {
-    background: #fff;
+    background: #00909b;
     padding: 2em 1.5em; 
     box-shadow: 0 0 8px 0 rgba(161, 161, 161, 0.5);
 	    text-align: center;
